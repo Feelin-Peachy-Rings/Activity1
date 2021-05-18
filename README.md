@@ -4,6 +4,7 @@ This repository contains the following documentation:
 - Project Overview Document
 - Affinity Diagram
 - Empathy Map
+- Customer Feedback - First Meeting
 - User Story Map Screenshot
   > Please click [here](https://landofooo.storiesonboard.com/m/ense-271-project) for our full user story map  
 
